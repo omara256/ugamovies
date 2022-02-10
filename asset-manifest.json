@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ugamovies/static/css/main.2fa68df1.chunk.css",
+    "main.js": "/ugamovies/static/js/main.498df4e0.chunk.js",
+    "main.js.map": "/ugamovies/static/js/main.498df4e0.chunk.js.map",
+    "runtime-main.js": "/ugamovies/static/js/runtime-main.2f1df359.js",
+    "runtime-main.js.map": "/ugamovies/static/js/runtime-main.2f1df359.js.map",
+    "static/js/2.040492e1.chunk.js": "/ugamovies/static/js/2.040492e1.chunk.js",
+    "static/js/2.040492e1.chunk.js.map": "/ugamovies/static/js/2.040492e1.chunk.js.map",
+    "static/js/3.4877afd0.chunk.js": "/ugamovies/static/js/3.4877afd0.chunk.js",
+    "static/js/3.4877afd0.chunk.js.map": "/ugamovies/static/js/3.4877afd0.chunk.js.map",
+    "index.html": "/ugamovies/index.html",
+    "static/css/main.2fa68df1.chunk.css.map": "/ugamovies/static/css/main.2fa68df1.chunk.css.map",
+    "static/js/2.040492e1.chunk.js.LICENSE.txt": "/ugamovies/static/js/2.040492e1.chunk.js.LICENSE.txt",
+    "static/media/logo.625e35f6.svg": "/ugamovies/static/media/logo.625e35f6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f1df359.js",
+    "static/js/2.040492e1.chunk.js",
+    "static/css/main.2fa68df1.chunk.css",
+    "static/js/main.498df4e0.chunk.js"
+  ]
+}
